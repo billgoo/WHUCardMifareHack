@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\BG\.android\build-cache\6cfeb016da562070daed5a9114deda3b95b00ffd\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_ab78ec7de86fca719051c6c073417f140623f03e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BG\.android\build-cache\6cfeb016da562070daed5a9114deda3b95b00ffd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a839af8a6abe3ee127337349542e0ebc1eaea3ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BG\.android\build-cache\cfef803c96432ac4cf5d963c4d187ccf62123550\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e09d119f8325c1090c4a9853c81dff4fed77ca91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_db7a563ea8e91f1377f0716f23cd327059dd69c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_58536f4fdfec89d7b1661c19a5f19aae99e82031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a84054352668dd84000bdf714699da2b561d1606">
+        <dex dex="C:\Users\BG\Desktop\WHUMifareClassHack-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e9f5b7e82a3dd19ce9ff6a8c028d4bcc4c06d2f\classes.dex" />
+    </item>
+
+</items>
